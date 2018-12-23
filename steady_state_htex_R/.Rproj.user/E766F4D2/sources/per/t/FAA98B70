@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1545481962621.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1758977874",
+    "id" : "FAA98B70",
+    "lastKnownWriteTime" : 1545441353,
+    "last_content_update" : 1545441353,
+    "path" : "D:/BRUNO/ENGENHARIA QUÍMICA/ENGENHARIA QUÍMICA 2018.2/TCC/TCC/ss_simu.R",
+    "project_path" : "ss_simu.R",
+    "properties" : {
+        "cursorPosition" : "13,5",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
