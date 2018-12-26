@@ -5,7 +5,7 @@ Created on Sun Dec 23 14:58:33 2018
 @author: Bruno Carlos
 """
 
-def derivada_htex(Tsf, Ff, Fq, U = 250,A = 1.61, Teq= 375,Tef= 280,Cpq= 2090,  Cpf= 4180,pf = 1000,  pq = 800):
+def derivada_htex(Tsf, Ff, Fq, U = 250,A = 1.61, Teq= 500,Tef= 280,Cpq= 2090,  Cpf= 4180,pf = 1000,  pq = 800):
     import math
     
       
