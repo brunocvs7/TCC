@@ -18,11 +18,6 @@ pf = 1000
 pq = 800
 Cpf  = 4180
 Cpq = 2090
-#Ff = np.arange(1, 100, 1)
-#Fq = np.arange(1,100,1)
-#Ff = np.array([0.201, 1])
-#Fq = np.array([0.5, 1])
-
 
 i = 0
 j = 0
